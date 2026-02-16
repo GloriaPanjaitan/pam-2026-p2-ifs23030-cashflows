@@ -13,7 +13,7 @@ group = "org.delcom"
 version = "0.0.1"
 
 application {
-    mainClass = "ApplicationKt"
+    mainClass.set("org.delcom.ApplicationKt")
 }
 
 dependencies {

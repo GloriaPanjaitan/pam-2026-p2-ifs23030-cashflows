@@ -1,9 +1,9 @@
-package services
+package org.delcom.services
 
-import data.CashFlowQuery
-import data.CashFlowRequest
-import entities.CashFlow
-import repositories.ICashFlowRepository
+import org.delcom.data.CashFlowQuery
+import org.delcom.data.CashFlowRequest
+import org.delcom.entities.CashFlow
+import org.delcom.repositories.ICashFlowRepository
 import java.time.Instant
 import java.util.*
 

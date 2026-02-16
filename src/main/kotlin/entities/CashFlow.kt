@@ -1,4 +1,4 @@
-package entities
+package org.delcom.entities
 
 import kotlinx.serialization.Serializable
 

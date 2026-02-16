@@ -1,6 +1,6 @@
-package repositories
+package org.delcom.repositories
 
-import entities.CashFlow
+import org.delcom.entities.CashFlow
 
 interface ICashFlowRepository {
     fun getAll(): List<CashFlow>

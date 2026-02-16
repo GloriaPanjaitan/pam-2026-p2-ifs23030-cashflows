@@ -1,12 +1,12 @@
-package controllers
+package org.delcom.controllers
 
 import io.ktor.server.application.*
 import io.ktor.server.request.*
 import io.ktor.server.response.*
 import io.ktor.server.routing.*
-import data.*
-import helpers.loadInitialData
-import services.ICashFlowService
+import org.delcom.data.*
+import org.delcom.helpers.loadInitialData
+import org.delcom.services.ICashFlowService
 
 fun Route.cashFlowController(service: ICashFlowService) {
 

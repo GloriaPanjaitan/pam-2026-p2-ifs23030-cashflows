@@ -1,6 +1,6 @@
-package data
+package org.delcom.data
 
-import entities.CashFlow
+import org.delcom.entities.CashFlow
 import kotlinx.serialization.Serializable
 
 @Serializable

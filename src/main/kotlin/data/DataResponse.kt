@@ -1,4 +1,4 @@
-package data
+package org.delcom.data
 
 import kotlinx.serialization.Serializable
 

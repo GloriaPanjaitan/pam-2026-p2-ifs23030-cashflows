@@ -1,4 +1,4 @@
-    package data
+    package org.delcom.data
 
     data class CashFlowQuery(
         val type: String? = null,

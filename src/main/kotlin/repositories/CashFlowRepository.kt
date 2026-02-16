@@ -1,6 +1,6 @@
-package repositories
+package org.delcom.repositories
 
-import entities.CashFlow
+import org.delcom.entities.CashFlow
 
 class CashFlowRepository : ICashFlowRepository {
 

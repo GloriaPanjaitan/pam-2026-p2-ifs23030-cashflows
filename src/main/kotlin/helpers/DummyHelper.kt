@@ -1,8 +1,8 @@
-package helpers
+package org.delcom.helpers
 
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
-import entities.CashFlow
+import org.delcom.entities.CashFlow
 import java.io.File
 
 @Serializable

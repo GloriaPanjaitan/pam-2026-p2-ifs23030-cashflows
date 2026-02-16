@@ -1,8 +1,8 @@
-package services
+package org.delcom.services
 
-import entities.CashFlow
-import data.CashFlowQuery
-import data.CashFlowRequest
+import org.delcom.entities.CashFlow
+import org.delcom.data.CashFlowQuery
+import org.delcom.data.CashFlowRequest
 
 interface ICashFlowService {
 
